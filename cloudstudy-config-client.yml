@@ -1,0 +1,7 @@
+server:
+  port:1000
+spring:
+  application:
+    name: cloudstudy-config-client
+
+
